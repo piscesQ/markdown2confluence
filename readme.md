@@ -41,6 +41,12 @@ Document
 
 ![demo preview](./preview.png)
 
+Insert to Confluenct
+---
+1.Click "Insert More" --> "Wiki Mark". 
+2.Paste content to left
+3.Click "Finish"
+
 License
 ---
 
